@@ -1,5 +1,5 @@
 [project]
-name = "mlflow-explore"
+name = "local-mlflow"
 version = "0.0.1"
 description = "Exploration of mlflow host"
 readme = "README.md"
