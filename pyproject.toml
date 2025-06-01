@@ -1,0 +1,13 @@
+[project]
+name = "mlflow-explore"
+version = "0.0.1"
+description = "Exploration of mlflow host"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "mlflow>=2.22.0",
+    "notebook>=7.4.2",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.6.1",
+]
